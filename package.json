@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Cursor + VS Code remote control via Telegram, MCP, and hooks",
+  "homepage": "https://synthet.github.io",
   "scripts": {
     "build": "pnpm -r run build",
     "test": "vitest run",

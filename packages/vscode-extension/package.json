@@ -4,6 +4,7 @@
   "private": true,
   "displayName": "Agent Remote Control",
   "description": "Remote control Cursor/VS Code agentic sessions via Telegram",
+  "homepage": "https://synthet.github.io",
   "publisher": "agent-remote",
   "engines": {
     "vscode": "^1.85.0"

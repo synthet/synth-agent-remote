@@ -1,4 +1,4 @@
-# Agent Remote Control
+# Synth Agent Remote
 
 Local-first remote control for Cursor/VS Code agentic coding sessions via Telegram, MCP, and Cursor hooks.
 
