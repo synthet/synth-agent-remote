@@ -4,6 +4,7 @@
   "private": true,
   "displayName": "Agent Remote Control (Cursor)",
   "description": "Cursor-specific integration for Agent Remote Control",
+  "homepage": "https://synthet.github.io",
   "publisher": "agent-remote",
   "engines": {
     "vscode": "^1.85.0"
